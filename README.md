@@ -1,6 +1,7 @@
 # grunt_test
 目录结构为
->`
+>
+```
 |- build 
   |-- 子目录全部运行自动生成
 |- dev
@@ -18,6 +19,6 @@
   |- template
     |-- jade
     |-- view
-`
+```
 
 ##### grunt搭建请参照简书[Grunt安装与环境配置](http://www.jianshu.com/p/a339f2dc3823)
